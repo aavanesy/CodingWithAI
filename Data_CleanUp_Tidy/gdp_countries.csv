@@ -1,0 +1,25 @@
+Region,Country,GDP,Date,VariableOne,VariableTwo
+Europe,Luxembourg,113954.4,1/1/2024,t,1
+Europe,Switzerland,83583,1/2/2024,f,0
+Europe,Norway,82372.4,1/3/2024,t,1
+Asia,Macao SAR,81585.4,1/4/2024,f,0
+Europe,Iceland,75699.6,1/5/2024,t,1
+Europe,Ireland,75192.3,1/6/2024,f,0
+Asia,Qatar,67818.3,1/7/2024,t,1
+North America,United States,62517.5,1/8/2024,f,0
+Asia,Singapore,61230.2,1/9/2024,t,1
+Europe,Denmark,61227,1/10/2024,f,0
+Oceania,Australia,56698.1,1/11/2024,t,1
+Europe,Sweden,53867.2,1/12/2024,f,0
+Europe,Netherlands,52931.2,1/13/2024,TRUE,1
+Europe,Netherlands,52931.2,1/13/2024,t,1
+Europe,Austria,51707.6,1/14/2024,f,0
+Europe,San Marino,ERROR,1/15/2024,t,1
+Europe,Finland,50068.1,1/16/2024,f,0
+Europe,Germany,48669.6,1/17/2024,t,0
+Asia,Hong Kong SAR,48231.3,1/18/2024,f,0
+Europe,Belgium,46978.7,1/19/2024,t,0
+North America,Canada,46733,1/20/2024,f,0
+Europe,France,42930.8,1/21/2024,t,0
+Europe,United Kingdom,42260.9,1/22/2024,f,0
+Oceania,New Zealand,41615.9,1/23/2024,t,0
